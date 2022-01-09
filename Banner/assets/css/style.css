@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.banner{
+    width: 100%;
+    height: 200px;
+    background-color: #8B441F;
+    text-align: center;
+}
+h1{
+    padding-top: 60px;
+    font-size: 60px;
+}
+.body{
+    background-color: #D2A262;
+    height: 557px;
+}
+.menu{
+    padding-left: 100px;
+    padding-top: 5px;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    text-align: center;
+    padding-left: 20px;
+    font-family: Times New Roman", Times, serif;
+}
+h2{
+    margin-top: 20px;
+}
